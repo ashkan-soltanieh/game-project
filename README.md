@@ -1,6 +1,6 @@
 ## Match Stick Game (2-Player & 3 Modes)
 
-This is the repository for my final project assignment for programming with Python course.
+This is the repository for my final project project which I developed a text-based game using Python.
 
 ## Description
 
