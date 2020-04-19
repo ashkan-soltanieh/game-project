@@ -14,4 +14,6 @@ Mode 3 is designed that computer strategize the game and user won't win any game
 
 Matplotlib.pyplot is needed for pie-chart visualization.
 
+## Snapshot
+
 ![Screen shot of the run](snapshot.png)
