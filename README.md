@@ -1,7 +1,5 @@
 # Match Stick Game (Two-Player & 3 Modes)
 
-## Introduction
-
 This is the repository for my final project assignment for programming with Python course.
 
 ## Description
