@@ -10,7 +10,7 @@ Mode 1 is designed to simulate fast play to test the game in easy mode.
 Mode 2 is User vs Computer in which computer plays in easy mode,
 Mode 3 is designed such that computer strategize the game in a way user will never win any games. Don't believe me?!! Try it in Hard mode! You'll see ;)
 
-## Libraries
+## Required Libraries
 
 Matplotlib.pyplot is needed for pie-chart visualization.
 
