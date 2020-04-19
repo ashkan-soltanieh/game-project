@@ -14,4 +14,4 @@ Mode 3 is designed such that computer strategize the game in a way user will nev
 
 ## Libraries
 
-Matplotlib.pyplot is needed for pie chart visualization.
+Matplotlib.pyplot is needed for pie-chart visualization.
